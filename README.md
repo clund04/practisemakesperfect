@@ -1,2 +1,2 @@
 # practisemakesperfect
-Small beginner projects to get to know to the world of coding .
+Some small beginner projects I've done as a hobby to get to know the world of coding💻
